@@ -1,0 +1,10 @@
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.csproj.AssemblyReference.cache
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.CalculateBMI.resources
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.cache
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\shang\source\repos\BMICalculator\bin\Debug\BMICalculator.exe.config
+C:\Users\shang\source\repos\BMICalculator\bin\Debug\BMICalculator.exe
+C:\Users\shang\source\repos\BMICalculator\bin\Debug\BMICalculator.pdb
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.exe
+C:\Users\shang\source\repos\BMICalculator\obj\Debug\BMICalculator.pdb
